@@ -1,3 +1,3 @@
 # kubernetes
 Kubernetes playground
-kubeadm join haproxy.snowball:6443 --token opx4zx.drn8rn6duhnk5dd8     --discovery-token-ca-cert-hash sha256:82d22a29f733efd4baa169d52d5c6a66c8a0945955310fe282d2a1d5ce09a68b
+kubeadm join haproxy.snowball:6443 --token 4bjlo4.xjlyc263dsu5ye1q --discovery-token-ca-cert-hash sha256:44f100d8789f98489d08c625f34b0b0ff8f05c0d71219c358344b81e94397936
